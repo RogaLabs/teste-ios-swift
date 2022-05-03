@@ -23,10 +23,6 @@ Seguir como exemplos de UI e conteúdo no diretório /class project.<br/>
   <img src="class project/ui_comments_example.png?raw=true" width="350" title="Posts">
 </p>
 
-### ENVIO DO TESTE
-Ao finalizar, deverá ser enviado o link do repositório pelo seguinte formulário:
-https://forms.gle/3YfuZqHzvHi8wWU97
-
 ### AVALIAÇÃO
 Irá ser avaliado:
 
